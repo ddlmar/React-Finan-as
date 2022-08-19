@@ -1,0 +1,25 @@
+.TableContainer {
+    display: grid;
+    grid-template-columns: repeat(4, 228px);
+    justify-items: center;
+}
+
+.TableCategory{
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: #fff;
+  
+    
+}
+
+.red {
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: red; 
+    
+}
+.green{
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: green; 
+}

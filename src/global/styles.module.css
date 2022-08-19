@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.reset{
+
+}
+.Header {
+    background-color: darkblue;
+    height: 150px;
+    text-align: center;
+}
+
+.HeaderText {
+    color: white;
+    padding-top: 30px;
+}
+
+.Main {
+    width: 70vw;
+    margin: auto;
+    margin-bottom: 50px;
+}

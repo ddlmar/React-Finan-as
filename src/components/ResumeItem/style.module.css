@@ -1,0 +1,14 @@
+.resumeContainer{
+    flex:1;
+}
+.resumeTitle{
+    text-align: center;
+    font-weight: bold;
+    color: #888;    
+    margin-bottom: 5px;
+}
+.resumeValue{
+    text-align: center;
+    font-weight: bold;
+    color: black;    
+}
